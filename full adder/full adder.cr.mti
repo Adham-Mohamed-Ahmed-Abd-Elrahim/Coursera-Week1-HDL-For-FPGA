@@ -1,0 +1,21 @@
+{D:/Work Zone/Vhdl/Course/full adder/AAC2M1H1.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:/Work Zone/Vhdl/Course/full adder/AAC2M1H1.vhd}
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FullAdd
+-- Compiling architecture behavioral of FullAdd
+
+} {} {}} {D:/Work Zone/Vhdl/Course/full adder/AAC2M1H1_tb.vhdp} {1 {vcom -work work -2002 -explicit -vopt -stats=none {D:/Work Zone/Vhdl/Course/full adder/AAC2M1H1_tb.vhdp}
+Model Technology ModelSim SE-64 vcom 10.5 Compiler 2016.02 Feb 13 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity AAC2M1H1_tb
+-- Compiling architecture behavioral of AAC2M1H1_tb
+
+} {} {}}

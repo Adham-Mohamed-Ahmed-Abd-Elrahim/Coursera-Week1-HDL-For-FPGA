@@ -1,0 +1,196 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modeltech_pe_edu_10.4a/examples
+T_opt
+!s110 1602374283
+VNLGPizAL04:69enIJVP8E3
+Z1 04 11 10 work aac2m1p1_tb behavioral 1
+=1-0068eb7c5103-5f824a8b-35c-49b0
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1602374292
+VkK1D^4?F^^JzmHiWSf62=0
+R1
+=1-0068eb7c5103-5f824a94-2f4-281c
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+R0
+Eaac2m1p1_tb
+Z4 w1573294870
+Z5 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z6 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z9 dD:/Work Zone/Vhdl/Course/mission part1
+Z10 8D:/Work Zone/Vhdl/Course/mission part1/AAC2M1P1_tb.vhdp
+Z11 FD:/Work Zone/Vhdl/Course/mission part1/AAC2M1P1_tb.vhdp
+l0
+L52
+VJYg2NG8BnOlP:Ta[BeaT?1
+!s100 o_c;zO@o9]4[Q2AMzCkSz0
+Z12 OL;C;10.5;63
+32
+Z13 !s110 1602374271
+!i10b 1
+Z14 !s108 1602374271.000000
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Course/mission part1/AAC2M1P1_tb.vhdp|
+Z16 !s107 D:/Work Zone/Vhdl/Course/mission part1/AAC2M1P1_tb.vhdp|
+!i113 0
+Z17 o-work work -2002 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Abehavioral
+R5
+R6
+R7
+R8
+DEx4 work 11 aac2m1p1_tb 0 22 JYg2NG8BnOlP:Ta[BeaT?1
+l135
+L61
+V>iilV:A51nag`Z_>Y>kiE1
+!s100 ?ej_`=]L:bNOQO]:gTi5H0
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Eaac2m1p3_tb
+Z19 w1590602291
+R5
+Z20 DPx4 ieee 20 numeric_bit_unsigned 0 22 Uo=_FXbo@j4IMIikZfQ=:3
+R6
+R7
+R8
+R9
+Z21 8D:/Work Zone/Vhdl/Course/misssion 1part3/AAC2M1P3_tb.vhdp
+Z22 FD:/Work Zone/Vhdl/Course/misssion 1part3/AAC2M1P3_tb.vhdp
+l0
+L54
+VB5zk^5KRo]kjB:^>^>an41
+!s100 CVRz_NC>c:Df^6PL7[bX21
+R12
+32
+Z23 !s110 1602376318
+!i10b 1
+Z24 !s108 1602376317.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Course/misssion 1part3/AAC2M1P3_tb.vhdp|
+Z26 !s107 D:/Work Zone/Vhdl/Course/misssion 1part3/AAC2M1P3_tb.vhdp|
+!i113 0
+R17
+R18
+Abehavioral
+R5
+R20
+R6
+R7
+R8
+Z27 DEx4 work 11 aac2m1p3_tb 0 22 B5zk^5KRo]kjB:^>^>an41
+l136
+L62
+Z28 VLF@khTD^_Mmd;ELUDK7_c2
+Z29 !s100 C29_acjo^Ym[?VLS14NF[1
+R12
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 0
+R17
+R18
+Ecomparator2
+Z30 w1602374254
+R7
+R8
+R9
+Z31 8D:/Work Zone/Vhdl/Course/mission part1/AAC2M1P1.vhd
+Z32 FD:/Work Zone/Vhdl/Course/mission part1/AAC2M1P1.vhd
+l0
+L40
+V7>K<a7594hM0oK[<N>PMc1
+!s100 jbXW<kjD[_>^?bUXljbbi2
+R12
+32
+R13
+!i10b 1
+R14
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Course/mission part1/AAC2M1P1.vhd|
+Z34 !s107 D:/Work Zone/Vhdl/Course/mission part1/AAC2M1P1.vhd|
+!i113 0
+R17
+R18
+Abehavioral
+R7
+R8
+DEx4 work 11 comparator2 0 22 7>K<a7594hM0oK[<N>PMc1
+l47
+L45
+V`B`2gzSnN3KOZamM?eiZY3
+!s100 F8N?4QOOACQ>@_9GmEGz]0
+R12
+32
+R13
+!i10b 1
+R14
+R33
+R34
+!i113 0
+R17
+R18
+Efind_errors
+Z35 w1602376303
+R7
+R8
+R9
+Z36 8D:/Work Zone/Vhdl/Course/misssion 1part3/AAC2M1P3.vhd
+Z37 FD:/Work Zone/Vhdl/Course/misssion 1part3/AAC2M1P3.vhd
+l0
+L45
+VjHPc:ITcLcKi5_GG5d2=R1
+!s100 ?3j]EF2TL74kEc3[`>lM]0
+R12
+32
+Z38 !s110 1602376317
+!i10b 1
+R24
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Work Zone/Vhdl/Course/misssion 1part3/AAC2M1P3.vhd|
+Z40 !s107 D:/Work Zone/Vhdl/Course/misssion 1part3/AAC2M1P3.vhd|
+!i113 0
+R17
+R18
+Anot_good
+R7
+R8
+DEx4 work 11 find_errors 0 22 jHPc:ITcLcKi5_GG5d2=R1
+l52
+L51
+VBSgSiO>nTR^Zbj7meQB]>3
+!s100 J>c56IA3lG1JN_1Q6@9cc3
+R12
+32
+R38
+!i10b 1
+R24
+R39
+R40
+!i113 0
+R17
+R18

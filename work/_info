@@ -1,0 +1,49 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Work Zone/Vhdl/Course
+Ecomparator2
+Z1 w1602373960
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8D:/Work Zone/Vhdl/Course/AAC2M1P1.vhd
+Z5 FD:/Work Zone/Vhdl/Course/AAC2M1P1.vhd
+l0
+L40
+VOLF@JmfndPW^mGzZehXz[2
+!s100 jbXW<kjD[_>^?bUXljbbi2
+Z6 OL;C;10.5;63
+32
+Z7 !s110 1602373998
+!i10b 1
+Z8 !s108 1602373998.000000
+Z9 !s90 -reportprogress|300|-work|work|D:/Work Zone/Vhdl/Course/AAC2M1P1.vhd|
+Z10 !s107 D:/Work Zone/Vhdl/Course/AAC2M1P1.vhd|
+!i113 0
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+Z13 DEx4 work 11 comparator2 0 22 OLF@JmfndPW^mGzZehXz[2
+l46
+L44
+Z14 V4;<mR^^]Jzh@4186llTIz2
+Z15 !s100 4mLMcW4ZXmf?o_Z9;WU=B3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
